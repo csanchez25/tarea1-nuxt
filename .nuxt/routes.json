@@ -1,0 +1,51 @@
+[
+  {
+    "name": "deportes",
+    "path": "/deportes",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\deportes\\\\index.vue",
+    "chunkName": "pages/deportes/index",
+    "_name": "_3074f688"
+  },
+  {
+    "name": "espectaculos",
+    "path": "/espectaculos",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\espectaculos\\\\index.vue",
+    "chunkName": "pages/espectaculos/index",
+    "_name": "_72fc0fe7"
+  },
+  {
+    "name": "sucesos",
+    "path": "/sucesos",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\sucesos\\\\index.vue",
+    "chunkName": "pages/sucesos/index",
+    "_name": "_66fcc829"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_04c8ba38"
+  },
+  {
+    "name": "deportes-slug",
+    "path": "/deportes/:slug",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\deportes\\\\_slug.vue",
+    "chunkName": "pages/deportes/_slug",
+    "_name": "_2ebe5540"
+  },
+  {
+    "name": "espectaculos-slug",
+    "path": "/espectaculos/:slug",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\espectaculos\\\\_slug.vue",
+    "chunkName": "pages/espectaculos/_slug",
+    "_name": "_71456e9f"
+  },
+  {
+    "name": "sucesos-slug",
+    "path": "/sucesos/:slug",
+    "component": "C:\\\\Users\\\\Usuario\\\\Downloads\\\\Tarea Noticias\\\\Tarea Noticias\\\\pages\\\\sucesos\\\\_slug.vue",
+    "chunkName": "pages/sucesos/_slug",
+    "_name": "_654626e1"
+  }
+]
